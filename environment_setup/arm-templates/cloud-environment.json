@@ -9,6 +9,7 @@
       "metadata": {
         "description": "The base name to use as prefix to create all the resources."
       }
+    }
     },
     "location": {
       "type": "string",
